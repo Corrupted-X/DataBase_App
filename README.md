@@ -2,7 +2,7 @@
 A simple Java application, used to connect to MySQL databases and execute MySQL queries.
 
 # Features
-Savable Credentials: Auto Logins
+Savable Credentials: Auto Logins \
 Disabled Drop Table: Drop operations are disabled by default
 
 # Important Notes
